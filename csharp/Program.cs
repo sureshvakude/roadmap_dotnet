@@ -9,7 +9,7 @@
 7.Assemblies
 8.Namespaces
 9.Project structure
-10. Basic
+10. Basic Fundamentals
     Identifiers
     Keywords
     Variables
@@ -101,5 +101,9 @@
     Events
     Pattern Matching
     Attributes
+
+21. SOLID Principles
+
+22. Design Patterns
 
 **/
